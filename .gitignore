@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConsoleAppfForGit/ConsoleAppfForGit/obj
+/ConsoleAppfForGit/.vs/Hello World/v15
+/ConsoleAppfForGit/Pizza/.vs/Pizza/v15/Server/sqlite3
+/ConsoleAppfForGit/Pizza/bin/Debug
+/ConsoleAppfForGit/Pizza/obj/Debug
+/ConsoleAppfForGit/Pizza/obj/Release
+/ConsoleAppfForGit/Pizza/.vs/Pizza/v15/.suo
