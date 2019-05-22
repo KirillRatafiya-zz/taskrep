@@ -17,7 +17,7 @@ namespace Pizza
             pizza.Ingredients.Add("ketchup");
             pizza.Ingredients.Add("sausage");
 
-
+            //Let's think these comments are needed as an 'foreach' option)!!!!!!!
             //foreach(string i in pizza.Ingredients)
             //Console.WriteLine(i);
 
@@ -26,7 +26,7 @@ namespace Pizza
                 Console.WriteLine("Added ingredients: {0}", pizza.Ingredients[i]);
             }
 
-            //Comment
+           
 
             Console.ReadLine();
         }
